@@ -1,7 +1,4 @@
 # SimpleDistributedSystem
-
-CS335 - Networks - Assignment
-
 The WebServerSystem is a system where multiple Web Servers cooperate among themeselves in order to serve the clients 
 
 
